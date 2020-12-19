@@ -3,10 +3,9 @@
 ![GMIT](https://github.com/E6985/pda-numpy-random/blob/main/img/gmit.png?raw=true)
 
 ## Programming for Data Analysis - Project 2020
-## Due: last commit on or before December 21st, 2020 
-## Extension: last commit on or before December 28th, 2020
+## Due (Extended): last commit on or before January 3rd, 2020
 
-Undergraduate of Computing (Data Analytics) at Galway-Mayo Institute of Technology. This repository contains the project instructions for the ``Programming for Data Analysis`` module in 2020. The assessment is worth 50% of the marks for the module. Completed in a single [Jupyter Notebook](https://github.com/E6985/pda-numpy-random-simulation/blob/main/Programming-for-Data-Analysis-Project-2020.ipynb).
+Undergraduate of Computing (Data Analytics) at Galway-Mayo Institute of Technology. This repository contains the project instructions for the ``Programming for Data Analysis`` module in 2020. The assessment is worth 50% of the marks for the module. Completed in a single [Jupyter Notebook](https://nbviewer.jupyter.org/github/E6985/pda-numpy-random-simulation/blob/main/Programming-for-Data-Analysis-Project-2020.ipynb).
 
 ## Project
 
