@@ -1,11 +1,11 @@
-< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Table of Contents](https://github.com/E6985) | [README](https://github.com/E6985/pda-numpy-random-simulation/blob/main/README.md) >
+< [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Table of Contents](https://github.com/SeanOhAileasa) | [README](https://github.com/SeanOhAileasa/pda-numpy-random-simulation/blob/main/README.md) >
 
-![GMIT](https://github.com/E6985/pda-numpy-random/blob/main/img/gmit.png?raw=true)
+![GMIT](https://github.com/SeanOhAileasa/pda-numpy-random/blob/main/img/gmit.png?raw=true)
 
 ## Programming for Data Analysis - Project 2020
 ## Due: last commit on or before January 6th, 2021
 
-Undergraduate of Computing (Data Analytics) at Galway-Mayo Institute of Technology. This repository contains the project instructions for the ``Programming for Data Analysis`` module in 2020. The assessment is worth 50% of the marks for the module. Completed in a single [Jupyter Notebook](https://nbviewer.jupyter.org/github/E6985/pda-numpy-random-simulation/blob/main/Programming-for-Data-Analysis-Project-2020.ipynb).
+Undergraduate of Computing (Data Analytics) at Galway-Mayo Institute of Technology. This repository contains the project instructions for the ``Programming for Data Analysis`` module in 2020. The assessment is worth 50% of the marks for the module. Completed in a single [Jupyter Notebook](https://nbviewer.jupyter.org/github/SeanOhAileasa/pda-numpy-random-simulation/blob/main/Programming-for-Data-Analysis-Project-2020.ipynb).
 
 ## Project
 
@@ -23,7 +23,7 @@ Detailing research findings, investigations completed, variables involved and th
 
 While the main task in this project is to create a synthesised dataset, actual data generated is not of interest. Instead the research investigations completed in creating the dataset is of must interest because presumably, there will be some random element in the generation of the data, following some sort of distribution. Rerunning the Jupyter notebook on a different system will produce a different randomly generated dataset with the same properties.
 
-The project is about simulation. The synthesised dataset will be based on Irish Government daily Press Releases relating to the National Public Health Emergency - Covid-19. Providing insight on how the data is modelled based on literature where available from the Irish Epidemiological Modelling Advisory Group, chaired by Professor Philip Nolan. The dataset can be found [here](https://github.com/E6985/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) and is updated daily.
+The project is about simulation. The synthesised dataset will be based on Irish Government daily Press Releases relating to the National Public Health Emergency - Covid-19. Providing insight on how the data is modelled based on literature where available from the Irish Epidemiological Modelling Advisory Group, chaired by Professor Philip Nolan. The dataset can be found [here](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) and is updated daily.
 
 #### Variables (Covid-19 ralated):
 
@@ -56,7 +56,7 @@ https://www.anaconda.com/download/
 
 	- Clone the repository with the following command:
 
-	``git clone https://github.com/E6985/pda-numpy-random-simulation.git``
+	``git clone https://github.com/SeanOhAileasa/pda-numpy-random-simulation.git``
 
     - Run Jupyter Notebooks from the repository with the following command:
 
@@ -70,4 +70,4 @@ https://www.anaconda.com/download/
 
 - If not running Jupyter notebook code cells - alternative to downloading and running on a machine: 
 
-	- Render Jupyter notebook [here](https://nbviewer.jupyter.org/github/E6985/pda-numpy-random-simulation/blob/main/Programming-for-Data-Analysis-Project-2020.ipynb)
+	- Render Jupyter notebook [here](https://nbviewer.jupyter.org/github/SeanOhAileasa/pda-numpy-random-simulation/blob/main/Programming-for-Data-Analysis-Project-2020.ipynb)
